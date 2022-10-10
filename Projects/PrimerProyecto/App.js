@@ -76,7 +76,7 @@ const App: () => Node = () => {
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
           <Section title="Step One">
-            Editar a  <Text style={styles.highlight}>monica y a App.js</Text> to change this
+            Editar a  <Text style={styles.highlight}>monica y a App.js Hola Monica, consiste en lanzar aros :D</Text> to change this
             screen and then come back to see your edits.
           </Section>
           <Section title="See Your Changes">
